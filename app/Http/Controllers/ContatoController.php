@@ -5,11 +5,11 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-define("TOKEN_EMAIL", "30ead40f2aa7b856c40334fe56a82dac:ede343b6721e024d01b55fcc40321453");
+define("TOKEN_EMAIL", "");
 define('EMAIL_FROMNAME', "Espanhol para você");
 define('EMAIL_FROM', "jeffersonpita@yahoo.com.br");
 
-define("SENDINBLUE_TOKEN", "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");
+define("SENDINBLUE_TOKEN", "");
 define('SENDGRID_FROMNAME', "Espanhol para você");
 define('SENDGRID_FROM', "jeffersonpita@yahoo.com.br");
 

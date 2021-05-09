@@ -1,0 +1,73 @@
+* {
+  font-family: 'PT Serif', serif;
+}
+
+
+/* PALETA DE CORES 1 */
+BODY {
+  background-color: #fbeeac;
+}
+.navbar.bg-dark {
+  background-color: #28527a !important;
+
+}
+.navbar-dark .navbar-brand,
+.navbar-dark .navbar-nav .nav-link {
+  color: #FFF;
+}
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .show > .nav-link,
+.navbar-dark .navbar-brand:hover,
+.navbar-dark .navbar-brand:active,
+.navbar-dark .navbar-brand:active:hover,
+.navbar-dark .navbar-nav .nav-link:hover,
+.navbar-dark .navbar-nav .nav-link:active ,
+.navbar-dark .navbar-nav .nav-link:active:hover   {
+  color: #fbeeac;
+}
+.footer {
+  background-color: #f4d160;
+}
+.footer A {
+  color: #000;
+}
+.footer A:hover {
+  color: #28527a;
+}
+/* PALETA DE CORES 1  END */
+
+
+
+.navbar-brand {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+
+  font-weight: bold;
+  letter-spacing: 0px;
+  padding-top: 0px;
+  font-size: 1.5rem;
+}
+LI {
+  color: green;
+}
+.carousel-caption {
+  background-color:rgba(255, 255, 255, 0.7);
+  color: #000;
+  font-size: 1.25rem;
+  border-radius: 1rem;
+  width: 50%;
+  left: 25%;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.carousel-caption h5 {
+  font-size: 1.5rem;
+}
+
+.container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.md-form LABEL {
+  margin-top: 10px;
+}
